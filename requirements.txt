@@ -1,0 +1,6 @@
+requests>=2.31
+anthropic>=0.40
+# opcional, só para o servidor MCP
+mcp>=2
+# testes
+pytest>=8
